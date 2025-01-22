@@ -1,7 +1,7 @@
 {
     "$id": "http://microsoft.com/cdm/schema.cdm.json",
     "$schema": "http://json-schema.org/draft-06/schema#",
-    "$version": "1.5.0",
+    "$version": "1.6.0",
     "type": "object",
     "definitions": {
         "import": {
